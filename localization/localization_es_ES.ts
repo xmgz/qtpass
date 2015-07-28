@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="de_DE">
+<TS version="2.1" language="es_ES">
 <context>
     <name>Dialog</name>
     <message>
@@ -11,12 +11,12 @@
     <message>
         <location filename="../dialog.ui" line="117"/>
         <source>gpg</source>
-        <translation type="unfinished"></translation>
+        <translation>gpg</translation>
     </message>
     <message>
         <location filename="../dialog.ui" line="93"/>
         <source>git</source>
-        <translation type="unfinished"></translation>
+        <translation>git</translation>
     </message>
     <message>
         <location filename="../dialog.ui" line="147"/>
@@ -30,7 +30,7 @@
         <location filename="../dialog.ui" line="168"/>
         <location filename="../dialog.ui" line="441"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>Executable pass</source>
@@ -44,12 +44,12 @@
     <message>
         <location filename="../dialog.ui" line="56"/>
         <source>&amp;Native git/gpg</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nativo git/gpg</translation>
     </message>
     <message>
         <location filename="../dialog.ui" line="63"/>
         <source>&amp;Use pass</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Utilizar pass</translation>
     </message>
     <message>
         <source>Executable git</source>
